@@ -1,4 +1,4 @@
-# Amigo_Secreto
+# Amigo Secreto
 
 :white_check_mark: Página de sorteio de Amigo Secreto feito com HTML, CSS e Javascript!
 
